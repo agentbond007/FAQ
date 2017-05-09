@@ -15,6 +15,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Question 2: What?
 Professionally living inside the cloud ecosystem with providers like Amazon Web Services (AWS), Azure (Microsoft), and Google Compute Platform (GCP)
 
+# Question 3: Where?
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
