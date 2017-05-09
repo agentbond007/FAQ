@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
-FAQ
+## Welcome to BEN MORRIS FAQ
+
 Frequently Asked Questions
+
+## AUTHOR:  Ben Morris
 
 You can use the [editor on GitHub](https://github.com/ParzivalWins/FAQ/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
